@@ -1,0 +1,20 @@
+{
+  "name": "demoApp",
+  "version": "0.0.0",
+  "authors": [
+    "xuantain"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
